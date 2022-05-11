@@ -1,4 +1,4 @@
-# Level 1 Golang
+# Level 1 Go
 
 Today you will be creating a simple Golang project via the instructions below.
 
