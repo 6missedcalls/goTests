@@ -12,3 +12,5 @@ Today you will be creating a simple Golang project via the instructions below.
   - Create a case that checks if it is Friday, if its Friday println that says "Party Time!" 
   - Create a case that checks if its Saturday and Sunday, if it's either of those days println that says "It's the Weekend!"
   - Create a default that would println saying "It's a weekday 🥲"
+- Create an array with 5 integers and create a for loops each value of the array
+- Create a println for the exact time
