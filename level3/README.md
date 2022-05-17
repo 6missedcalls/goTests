@@ -2,6 +2,8 @@
 
 Today you will be creating a simple Golang project via the instructions below.
 
+### Maps and For loops
+
 ## Instructions
 
 1 Create a main.go file 

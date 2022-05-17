@@ -1,5 +1,7 @@
 # Level 2 Go
 
+### Switch, Arrays and Time
+
 Today you will be creating a simple Golang project via the instructions below.
 
 ## Instructions
